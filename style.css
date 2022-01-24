@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+    background-color:#6B9B00;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 5px;
+    position: relative;
+    border-radius: 15px;
+}
+
+main a{
+    position: relative;
+    background-color:#133AAC;
+    color: white;
+    padding: 5px;
+    border-radius: 13px;
+}
+
+main h1{
+    text-align: center;
+    font-weight: 900;
+}
+
+main p{
+    margin-left: 50px;
+    
+}
+
+footer a{
+    margin-left: 150px;
+}
